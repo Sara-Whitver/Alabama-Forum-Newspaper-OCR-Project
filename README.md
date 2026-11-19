@@ -9,5 +9,5 @@ As a use case, Alabama Forum presents a number of challenges for OCR, including 
 
 This project is built by Sara Maurice Whitver as a research project and instructional demonstration for the Alabama Digital Humanities Center at The University of Alabama Libraries.
 
-I am tyoing this to show robyn how it works
+I am typing this to show robyn how it works
 
